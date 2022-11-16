@@ -33,7 +33,7 @@
     "markdown-it": "^8.4.2",
     "markdown-it-emoji": "^1.4.0",
     "markdown-it-highlight": "^0.2.0",
-    "nuxt": "^2.3.2",
+    "nuxt": "^2.15.8",
     "tar": "^4.4.8",
     "vue-flatpickr-component": "^8.0.0",
     "vue-lazyload": "^1.2.6",
